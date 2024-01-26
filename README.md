@@ -6,6 +6,7 @@
 <STRONG> FORAM UTILIZADOS: </STRONG><BR>
 <img align="center" alt="Polly-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
 <img align="center" alt="Polly-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Polly-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Polly-eclipse" height="30" width="40" src="https://skillicons.dev/icons?i=js" /> 
 </div>
 
